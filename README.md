@@ -6,3 +6,4 @@ I am practicing leaving a note.
 
 #I am making a change to this ReadMe.
 #I am making another change.
+#Also note: I dropped foreign AND make.
