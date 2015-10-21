@@ -4,3 +4,5 @@
 sysuse auto, clear
 
 desc
+
+save practice_auto, replace
