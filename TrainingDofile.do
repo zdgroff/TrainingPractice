@@ -9,6 +9,7 @@ desc
 
 *Create density variable.
 gen density=weight/length
+tab density
 
 *Delete unused variables.
 drop make
