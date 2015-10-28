@@ -3,6 +3,8 @@
 
 sysuse auto, clear
 
+tab make
+
 desc
 
 *Create density variable.
