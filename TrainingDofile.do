@@ -11,7 +11,6 @@ desc
 gen density=weight/length
 
 *Delete unused variables.
-drop make
 drop foreign
 
 save practice_auto, replace
